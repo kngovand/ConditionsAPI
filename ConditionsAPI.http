@@ -1,0 +1,6 @@
+@ConditionsAPI_HostAddress = http://localhost:5248
+
+GET {{ConditionsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
